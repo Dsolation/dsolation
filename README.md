@@ -14,5 +14,3 @@ IDEs/Editors: ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Dsolation)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jorge-vento-angulo/)  
-
-
